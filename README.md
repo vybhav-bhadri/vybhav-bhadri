@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vybhav-bhadri
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning django
+- 👀 I’m interested in tech
+- 🌱 I’m currently learning cloud
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 Reach me on linkden
 
